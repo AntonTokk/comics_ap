@@ -4,7 +4,7 @@ import 'favorites_page.dart';
 import 'cart_page.dart';
 import 'profile_page.dart';
 import 'auth_service.dart';
-import 'package:supabase/supabase.dart'; // Добавьте этот импорт
+import 'package:supabase/supabase.dart'; 
 
 void main() {
   runApp(MyApp());
